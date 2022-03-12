@@ -1,10 +1,6 @@
 <?php
 
-
 use Illuminate\Support\Facades\Route;
-use App\Models\Home;
-use App\Http\Controllers\HomeController;
-use App\Http\Controllers\PostController;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,30 +15,32 @@ use App\Http\Controllers\PostController;
 
 Route::get('/', function () {
     return view('welcome',[
-    "title" => "Welcome"
+        "title" => "Welcome"
     ]);
 });
 
-Route::get('/adm', function () {
-    return view('admin',[
-    "title" => "Dashboard Admin"
-    ]);
-});
-Route::get('/about', function () {
-    return view('about', [
-    "title" => "Tentang"
-    ]);
-});
+Route::get('/dashboard', function () {
+    return view('dashboard');
+})->middleware(['auth'])->name('dashboard');
 
-Route::get('/home/{slug}', [HomeController::class, 'show']);
-Route::get('/home', [HomeController::class, 'index']);
+require __DIR__.'/auth.php';
 
-Route::get('/kusioner', function () {
-    return view('kusioner',[
-    "title" => "Kusioner"
-    ]);
-});
-Route::get('/dashboard',function() {
-    return view('dashboard.index');
-});
-Route::resource('/dashboard/posts', PostController::class);
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
