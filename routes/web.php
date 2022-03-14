@@ -23,24 +23,35 @@ Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth'])->name('dashboard');
 
+Route::get('/adm', function () {
+    return view('admin',[
+    "title" => "Dashboard Admin"
+    ]);
+});
+
+Route::get('/about', function () {
+    return view('about', [
+    "title" => "Tentang"
+    ]);
+});
+
+Route::get('/home/{slug}', [App\Http\Controllers\HomeController::class, 'index']);
+
+Route::get('/home',[App\Http\Controllers\HomeController::class, 'index']);
+
+Route::get('/kusioner', function () {
+    return view('kusioner',[
+    "title" => "Kusioner"
+    ]);
+});
+
+Route::get('/dashboard',function() {
+    return view('dashboard.index');
+})->middleware(['auth'])->name('dashboard');
+
+Route::resource('/dashboard/posts', App\Http\Controllers\PostController::class);
+
+
 require __DIR__.'/auth.php';
 
 Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

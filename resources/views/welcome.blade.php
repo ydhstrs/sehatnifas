@@ -1,8 +1,9 @@
-@extends('layouts/main')
-@section('container')
-    <h1>Hello, world!</h1>
-    <article>
-   
+@extends('layouts.app')
 
-    </article>
+@section('content')
+<h1>Hello, world!</h1>
+<article>
+
+
+</article>
 @endsection
