@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 @extends('layouts.app')
 
 @section('content')
 <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+=======
+@extends('layouts/main')
+
+
+@section('container')
+
+  <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+>>>>>>> cf0ab31eef0408b145fd7dc00cb6136cbda2ad21
 
     <div class="carousel-indicators">
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -130,4 +139,13 @@
     <hr class="featurette-divider">
 
     <!-- /END THE FEATURETTES -->
+<<<<<<< HEAD
 @endsection
+=======
+@endsection
+
+  </div><!-- /.container -->
+
+  <!-- FOOTER -->
+  
+>>>>>>> cf0ab31eef0408b145fd7dc00cb6136cbda2ad21
