@@ -2,13 +2,27 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
-body {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  color: #5a5a5a;
+
+.custom-shape-divider-top-1647326625 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
 }
 
+.custom-shape-divider-top-1647326625 svg {
+  position: relative;
+  display: block;
+  width: calc(185% + 1.3px);
+  height: 283px;
+  transform: rotateY(180deg);
+}
 
+.custom-shape-divider-top-1647326625 .shape-fill {
+  fill: #65DBFF;
+}
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
