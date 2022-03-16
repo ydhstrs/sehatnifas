@@ -1,9 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
-<h1>Hello, world!</h1>
-<article>
-
-
-</article>
+<div class="container py-5 center">
+    <center>
+    <img src="{{ asset('storage/images/welcome_image.svg') }}" alt="Welcome image" class="img-fluid center"
+        style="height: 400px" />
+        <h2 class="py-4">Sehat Nifas</h2>
+    </center>
+</div>
 @endsection

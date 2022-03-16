@@ -30,15 +30,17 @@
 
     <!-- Custom styles for this template -->
     <link href="/css/carousel.css" rel="stylesheet">
-    
+
 </head>
 
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
+        <nav class="navbar navbar-expand-lg navbar-light bg-whiteSnow">
             <div class="container">
-                <a class="navbar-brand" href="{{ url('/') }}">
-                    {{ config('app.name', 'Sehat Nifas') }}
+                <a class="navbar-brand h2" href="{{ url('/') }}">
+                    <strong>
+                        {{ config('app.name', 'Sehat Nifas') }}
+                    </strong>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -50,13 +52,13 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link " href="/home">Home</a>
+                            <a class="nav-link h5" href="/home">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/about">About</a>
+                            <a class="nav-link h5" href="/about">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " href="/kusioner">Kusioner</a>
+                            <a class="nav-link h5" href="/kusioner">Kusioner</a>
                         </li>
                     </ul>
 
@@ -65,14 +67,16 @@
                         <!-- Authentication Links -->
                         @guest
                         @if (Route::has('login'))
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
+                        <li class="nav-item mx-2">
+                            <a class="customButton buttonRounded custom-bg-blue h6"
+                                href="{{ route('login') }}">{{ __('Login') }}</a>
                         </li>
                         @endif
 
                         @if (Route::has('register'))
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>
+                            <a class="customButton buttonRounded custom-bg-grey text-dark h6"
+                                href="{{ route('register') }}">{{ __('Register') }}</a>
                         </li>
                         @endif
                         @else

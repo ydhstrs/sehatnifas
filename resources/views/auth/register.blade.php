@@ -103,9 +103,9 @@
                                             <strong>{{ $message }}</strong>
                                         </span>
                                         @enderror
-                                        <div class="pt-1 mb-4">
-                                            <button class="btn btn-dark btn-lg btn-block"
-                                                type="submit">{{ __('Login') }}</button>
+                                        <div class="">
+                                            <button class="customButton buttonRounded custom-bg-blue"
+                                                type="submit">{{ __('Register') }}</button>
                                         </div>
                                     </form>
 
