@@ -8,12 +8,12 @@ body{
 }
 
 .custom-shape-divider-top-1647326625 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-  line-height: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
 }
 .customButton {
   background-color: #2447F9;
@@ -35,39 +35,42 @@ body{
 .buttonRounded {border-radius: 50px;}
 
 .custom-shape-divider-top-1647326625 svg {
-  position: relative;
-  display: block;
-  width: calc(185% + 1.3px);
-  height: 283px;
-  transform: rotateY(180deg);
+    position: relative;
+    display: block;
+    width: calc(185% + 1.3px);
+    height: 283px;
+    transform: rotateY(180deg);
 }
 
 .custom-shape-divider-top-1647326625 .shape-fill {
-  fill: #65DBFF;
+    fill: #65DBFF;
 }
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
 /* Carousel base class */
 .carousel {
-  margin-bottom: 4rem;
+    margin-bottom: 4rem;
 }
+
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
-  bottom: 3rem;
-  z-index: 10;
+    bottom: 3rem;
+    z-index: 10;
 }
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-  height: 32rem;
+    height: 32rem;
 }
-.carousel-item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 32rem;
+
+.carousel-item>img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 32rem;
 }
 
 
@@ -76,17 +79,25 @@ body{
 
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
-  margin-bottom: 1.5rem;
-  text-align: center;
+    margin-bottom: 1.5rem;
+    text-align: center;
 }
+
+.marketing .col-lg-6 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
 .marketing h2 {
-  font-weight: 400;
+    font-weight: 400;
 }
+
 /* rtl:begin:ignore */
 .marketing .col-lg-4 p {
-  margin-right: .75rem;
-  margin-left: .75rem;
+    margin-right: .75rem;
+    margin-left: .75rem;
 }
+
 /* rtl:end:ignore */
 
 
@@ -94,15 +105,16 @@ body{
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+    margin: 5rem 0;
+    /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
 .featurette-heading {
-  font-weight: 300;
-  line-height: 1;
-  /* rtl:remove */
-  letter-spacing: -.05rem;
+    font-weight: 300;
+    line-height: 1;
+    /* rtl:remove */
+    letter-spacing: -.05rem;
 }
 
 
@@ -110,20 +122,21 @@ body{
 -------------------------------------------------- */
 
 @media (min-width: 40em) {
-  /* Bump up size of carousel content */
-  .carousel-caption p {
-    margin-bottom: 1.25rem;
-    font-size: 1.25rem;
-    line-height: 1.4;
-  }
 
-  .featurette-heading {
-    font-size: 50px;
-  }
+    /* Bump up size of carousel content */
+    .carousel-caption p {
+        margin-bottom: 1.25rem;
+        font-size: 1.25rem;
+        line-height: 1.4;
+    }
+
+    .featurette-heading {
+        font-size: 50px;
+    }
 }
 
 @media (min-width: 62em) {
-  .featurette-heading {
-    margin-top: 7rem;
-  }
+    .featurette-heading {
+        margin-top: 7rem;
+    }
 }

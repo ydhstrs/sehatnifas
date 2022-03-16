@@ -13,6 +13,12 @@
                     Post Home
                 </a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link {{ Request::is('dashboard/posts') ? 'active' :'' }}" href="/home">
+                    <span data-feather="book"></span>
+                    Home
+                </a>
+            </li>
         </ul>
 
         <div>

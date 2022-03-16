@@ -78,7 +78,7 @@
                                         </span>
                                         @enderror
                                         <div class="pt-1 mb-4">
-                                            <button class="customButton buttonRounded custom-bg-blue"
+                                            <button class="customButton buttonRounded custom-bg-blue w-100"
                                                 type="submit">{{ __('Login') }}</button>
                                         </div>
                                     </form>
