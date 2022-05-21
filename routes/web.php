@@ -44,6 +44,8 @@ Route::get('/kusioner', function () {
     ]);
 });
 
+Route::post('/kuesioner', [RegisteredUserController::class, 'store']);
+
 Route::get('/dashboard',function() {
     return view('dashboard.index');
 })->middleware(['auth'])->name('dashboard');
