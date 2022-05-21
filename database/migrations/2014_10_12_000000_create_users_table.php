@@ -17,6 +17,11 @@ return new class extends Migration
             $table->id();
             $table->string('name');
             $table->string('email')->unique();
+            $table->string('age');
+            $table->string('lastEducation');
+            $table->string('profession');
+            $table->string('numberOfChildren');
+            $table->string('currentChildren');
             $table->string('password');
             $table->rememberToken();
             $table->timestamps();
