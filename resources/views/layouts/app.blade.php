@@ -59,9 +59,12 @@
                         <li class="nav-item">
                             <a class="nav-link h5" href="/about">About</a>
                         </li>
+                        @auth
                         <li class="nav-item">
                             <a class="nav-link h5" href="/kusioner">Kusioner</a>
-                        </li>
+                        </li> 
+                        @endauth
+
                     </ul>
 
                     <!-- Right Side Of Navbar -->
