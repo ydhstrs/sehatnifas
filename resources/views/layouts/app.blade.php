@@ -32,6 +32,11 @@
     <!-- Custom styles for this template -->
     <link href="/css/carousel.css" rel="stylesheet">
     <link href="/css/form-validation.css" rel="stylesheet">
+    <style>
+        a {
+            color: gray
+        }
+    </style>
 
 </head>
 

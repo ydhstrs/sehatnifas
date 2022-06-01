@@ -24,12 +24,8 @@
     <!-- Three columns of text below the carousel -->
     <div class="row">
         <div class="col-lg-4">
-            <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg"
-                role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777"
-                    dy=".3em">140x140</text>
-            </svg>
+            <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/pengertian.svg') }}" alt="Welcome image" class="img-fluid center"
+             />
 
             <h2>Pengertian Masa Nifas</h2>
             <p>Masa nifas merupakan masa sesudah plasenta lahir, dan berakhir ketika alat-alat kandungan kembali seperti
@@ -39,27 +35,19 @@
                 peradangan yang dapat menyebabkan kematian</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-            <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg"
-                role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777"
-                    dy=".3em">140x140</text>
-            </svg>
+             <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/pemulihan.svg') }}" alt="Welcome image" class="img-fluid center"
+             />
 
-            <h2>Tahap Pemulihan Masa Nifas</h2>
+            <h2><a href="#tahap_pemulihan_masa_nifas"> Tahap Pemulihan Masa Nifas </a></h2> 
             <p>Masa nifas seperti penjelsan diatas merupakan rangkaian masa pemulihan setelah persalinan yang dilalui
                 oleh seorang wanita. Pengamatan pasca kehamilan harus dilakukan dengan hati-hati terhadap perubahan
                 fisiologis yang dialami ibu dan harus melihat indikasi keadaan obsestif pada setiap tahap.</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-            <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg"
-                role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777"
-                    dy=".3em">140x140</text>
-            </svg>
+            <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/nass.svg') }}" alt="Welcome image" class="img-fluid center"
+             />
 
-            <h2>Kebijakan Program Nasional Nifas</h2>
+            <h2> <a href="program"> Kebijakan Program Nasional Nifas </a></h2>
             <p>Selama ibu berada pada masa nifas, pemerintahan melakukan kebijakan yaitu minimal melakukan empat kali
                 kunjungan yang dilakukan oleh tenaga medis upaya mengurangi terjadinya komplikasi pada masa nifas, serta
                 menurunkan angka kematian ibu.</p>
@@ -69,28 +57,19 @@
 
     <div class="row">
         <div class="col-lg-6">
-            <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg"
-                role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777"
-                    dy=".3em">140x140</text>
-            </svg>
-
-            <h2>Perawatan Masa Nifas</h2>
+                 <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/workout.svg') }}" alt="Welcome image" class="img-fluid center"
+             />
+            <h2> <a href="#perawatan_masa_nifas">Perawatan Masa Nifas </a></h2>
             <p>Perawatan masa nifas merupakan perawatan diri yang dilakukan oleh tenaga kesehatan terhadap ibu nifas
                 maupun aktivitas perawatan yang dilakukan oleh ibu nifas itu sendiri untuk memelihara kesehatan
                 organ-organ produksi. selama masa nifas, yakni dimulai dari akhir persalinan dan berakhir hingga
                 kembalinya organ-organ reproduksi seperti keadaan sebelum hamil</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-6">
-            <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg"
-                role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#777" /><text x="50%" y="50%" fill="#777"
-                    dy=".3em">140x140</text>
-            </svg>
+              <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/danger.svg') }}" alt="Welcome image" class="img-fluid center"
+             />
 
-            <h2>Tanda Bahaya Pada Nifas</h2>
+            <h2> <a href="bahaya">Tanda Bahaya Pada Nifas </a></h2>
             <p>Tanda bahaya masa nifas adalah keadaan abnormal yang mengindikasikan adanya bahaya/komplikasi yang akan
                 terjadi pada ibu nifas, dimana jika tidak ditangani dan dilaporkan akan sangat berbahaya bagi kesehatan
                 ibu nifas. </p>
@@ -104,7 +83,7 @@
 
     <hr class="featurette-divider">
 
-    <div class="row featurette">
+    <div class="row featurette" id="tahap_pemulihan_masa_nifas">
         <div class="col-md-7">
             <h2>Tahap Pemulihan Masa Nifas</h2>
             <p class="lead">Masa nifas seperti penjelsan diatas merupakan rangkaian masa pemulihan setelah persalinan
@@ -134,20 +113,15 @@
             </p>
         </div>
         <div class="col-md-5">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-                height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
-                preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa"
-                    dy=".3em">500x500</text>
-            </svg>
+            
+            <iframe width="500" height="500" preserveAspectRatio="xMidYMid slice" src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=IVsTPOqZ8NM&loop=1">
+            </iframe>
 
         </div>
     </div>
 
     <hr class="featurette-divider">
-
-    <div class="row featurette">
+    <div class="row featurette" id="program">
         <div class="col-md-7 order-md-2">
             <h2 class="featurette">Kebijakan Program Nasional Nifas
             </h2>
@@ -163,20 +137,15 @@
             </p>
         </div>
         <div class="col-md-5 order-md-1">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-                height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
-                preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa"
-                    dy=".3em">500x500</text>
-            </svg>
+             <iframe width="450" height="450" preserveAspectRatio="xMidYMid slice" src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=-xDlohsipHo&loop=1">
+            </iframe>
 
         </div>
     </div>
 
     <hr class="featurette-divider">
 
-    <div class="row featurette">
+    <div class="row featurette" id="perawatan_masa_nifas">
         <div class="col-md-7">
             <h2>Perawatan Masa Nifas</h2>
             <p class="lead">Perawatan masa nifas merupakan perawatan diri yang dilakukan oleh tenaga kesehatan terhadap
@@ -303,11 +272,17 @@
             <p class="lead">
                 Ibu harus istirahat tidur telentang selama 8 jam psca persalinan.kemungkinan boleh miring kekanan kekiri untuk mencegah terjadinya thrombosis dan trombo emboli. Pada hari kedua diperbolehkan duduk, hari ketiga berjalan-jalan dan hari keempat atau kelima sudah diperbolehkan pulang. Keuntungan dari mobilisasi dini adalah melancarkan pengeluaran lochia, mengurangi infeksi purperium, mempercepat involusi alat kandungan, melancarkan fungsi alat gastrointestinal dan alat perkemihan, meningkatkan kelancaran peredaran darah sehingga mempercepat fungsi ASI dan pengeluaran sisa metabolisme (Nasution, S.S, 2018).
             </p>
-
         </div>
+
+            <div class="col-md-5">
+            
+                <iframe width="500" height="500" preserveAspectRatio="xMidYMid slice" src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=hyIvYTLxOFQ&loop=1">
+                </iframe>
+
+            </div>
         <hr class="featurette-divider">
 
-    <div class="row featurette">
+    <div class="row featurette" id="bahaya">
                 <div class="col-md-7 order-md-2">
 
             <h2>Tanda Bahaya Nifas</h2>
@@ -390,13 +365,12 @@
             
         </div>
         <div class="col-md-5">
-            <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-                height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
-                preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa"
-                    dy=".3em">500x500</text>
-            </svg>
+           
+              <img src="{{ asset('storage/images/danger.svg') }}" alt="Welcome image" class="img-fluid center"
+            style="height: 400px" />
+        <div class="container py-4">
+            
+
 
         </div>
     </div>
