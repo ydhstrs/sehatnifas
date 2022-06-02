@@ -44,7 +44,7 @@
             <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
                 <div
                     class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-                    <h1 class="h2">Halaman Post Home</h1>
+                    <h1 class="h2">Daftar Hasil Kusioner Pengguna</h1>
                     <div class="btn-toolbar mb-2 mb-md-0">
 
                     </div>
@@ -54,24 +54,30 @@
                         <table class="table table-striped table-sm">
                             <thead>
                                 <tr>
-                                    <th scope="col">#</th>
-                                    <th scope="col">Title</th>
-                                    <th scope="col">Action</th>
+                                    <th scope="col">No</th>
+                                    <th scope="col">Nama</th>
+                                    <th scope="col">Email</th>
+                                    <th scope="col">Umur</th>
+                                    <th scope="col">Pendidikan Terakhir</th>
+                                    <th scope="col">Pekerjaan</th>
+                                    <th scope="col">Jumlah Anak</th>
+                                    <th scope="col">Lihat</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                @foreach ($home as $homes)
+                                @foreach ($userInputs as $userInput)
                                 <tr>
                                     <td>{{ $loop->iteration }}</td>
                                     </td>
-                                    <td>{{ $homes->title }}</td>
+                                    <td>{{ $userInput->user->name }}</td>
+                                    <td>{{ $userInput->user->email }}</td>
+                                    <td>{{ $userInput->user->age }}</td>
+                                    <td>{{ $userInput->user->lastEducation }}</td>
+                                    <td>{{ $userInput->user->profession }}</td>
+                                    <td>{{ $userInput->user->numberOfChildren }}</td>
                                     <td>
-                                        <a href="/dashboard/posts/{{ $homes->id }}" class="badge bg-info"><span
+                                        <a href="/dashboard/posts/{{ $userInput->id }}" class="badge bg-info"><span
                                                 data-feather="eye"></span></a>
-                                        <a href="/dashboard/posts/{{ $homes->id }}" class="badge bg-warning"><span
-                                                data-feather="edit"></span></a>
-                                        <a href="/dashboard/posts/{{ $homes->id }}" class="badge bg-danger"><span
-                                                data-feather="x-circle"></span></a>
                                     </td>
                                 </tr>
                                 @endforeach

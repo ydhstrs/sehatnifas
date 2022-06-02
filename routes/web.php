@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\KuesionerController;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
@@ -38,19 +40,15 @@ Route::get('/home/{slug}', [App\Http\Controllers\HomeController::class, 'index']
 
 Route::get('/home',[App\Http\Controllers\HomeController::class, 'index']);
 
-Route::get('/kusioner', function () {
-    return view('kusioner',[
-    "title" => "Kusioner"
-    ]);
-});
+Route::post('/kusioner', [KuesionerController::class, 'saveAnwere'])->name("insertKusioner");
 
-Route::post('/kuesioner', [RegisteredUserController::class, 'store']);
+Route::get('/kusioner', [KuesionerController::class, 'create']);
 
 Route::get('/dashboard',function() {
     return view('dashboard.index');
 })->middleware(['auth'])->name('dashboard');
 
-Route::resource('/dashboard/posts', App\Http\Controllers\PostController::class);
+Route::resource('/dashboard/posts', App\Http\Controllers\UserResultController::class);
 
 
 require __DIR__.'/auth.php';

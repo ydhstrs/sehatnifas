@@ -20,6 +20,7 @@ return new class extends Migration
             $table->string('age');
             $table->string('lastEducation');
             $table->string('profession');
+            $table->integer('role');
             $table->string('numberOfChildren');
             $table->string('currentChildren');
             $table->string('password');

@@ -90,12 +90,14 @@
                                 data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 {{ Auth::user()->name }}
                             </a>
-
+                            
                             <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item h5" href="{{ route('dashboard') }}">
-                                    <span data-feather="book"></span>
-                                    Admin Dashboard
-                                </a>
+                               @if ( Auth::user()->role==1)
+                               <a class="dropdown-item h5" href="{{ route('dashboard') }}">
+                                <span data-feather="book"></span>
+                                Admin Dashboard
+                               </a>
+                               @endif
                                 <a class="dropdown-item h5" href="{{ route('logout') }}" onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
                                     {{ __('Logout') }}

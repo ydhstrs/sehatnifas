@@ -13,11 +13,12 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('kuesioner', function (Blueprint $table) {
+        Schema::create('user_answeres', function (Blueprint $table) {
             $table->id();
-            $table->string('age');
-            $table->string('lastEducation');
-            $table->string('profession');
+            $table->bigInteger('user_id');
+            $table->bigInteger('kuesioner_id');
+            $table->string('answere');
+            $table->integer('percobaan');
             $table->timestamps();
         });
     }
@@ -29,6 +30,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('kuesioner');
+        Schema::dropIfExists('user_answere');
     }
 };

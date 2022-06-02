@@ -45,21 +45,51 @@
 
     <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Halaman Post Home</h1>
+        <h1 class="h2">Halaman Detail Jawaban Pengguna</h1>
         <div class="btn-toolbar mb-2 mb-md-0">
 
         </div>
       </div>
       <div class="container">
       <div class="table-responsive col-lg-10">
-        <table class="table table-striped table-sm">
 
-          <tbody>
-            <article>
-            <h2>{{ $homes -> title }}</h2>
-            <p>{{ $homes -> body }}</p>
-        </article>
-        </table>
+        @foreach ($answeres as $answere)
+        <div class="col">
+          <label for="firstName" class="form-label">{{ $loop->iteration}}. {{ $answere->kuesioners->soal}}</label>
+        <div class="col">
+          <input type="radio" id="opsi1" @if ($answere->answere==1)
+          checked 
+          @else
+            disabled
+          @endif>
+          <label for="html">{{$answere->kuesioners->opsi1}}</label><br>
+       
+          <input type="radio" id="opsi2" @if ($answere->answere==2)
+          checked 
+          @else
+            disabled
+          @endif>
+          <label for="css">{{$answere->kuesioners->opsi2}}</label><br>
+
+          <input type="radio" id="opsi3" @if ($answere->answere==3)
+          checked 
+          @else
+            disabled
+          @endif>
+          <label for="javascript">{{$answere->kuesioners->opsi3}}</label><br>
+
+          <input type="radio" id="opsi4" @if ($answere->answere==4)
+          checked 
+          @else
+            disabled
+          @endif>
+          <label for="javascript">{{$answere->kuesioners->opsi4}}</label>
+
+        </div>
+        </div>
+        <br/>
+        @endforeach
+
       </div>
     </div>
     </main>
