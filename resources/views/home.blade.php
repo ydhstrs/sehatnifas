@@ -215,6 +215,26 @@
             <p class="h5">
                 3. Waktu senam nifas ini dilakukan saat ibu benar-benar pulih dan tidak ada koplikasi obstetric atau penyakit masa nifas ( seperti tekanan darah tinggi, pasca kejang , dan demam)
             </p>
+            <p class="lead">
+               Latihan senam nifas hari 1 <br>
+                Sebaiknya SENAM NIFAS dikerjakan dalam 24 jam pertama apabila ibu bersalin normal dalam 6 jam pertama biasanya ibu yang kelelahan karena baru saja selesai melahirkan, maka senam nifas ini bertujuan untuk mengurangi rasa lelah yang dialami ibu tersebut, hal-hal yang harus dianjurkan sebagai berikut: <br>
+                1.	Latihan pernafasan iga-iga dengan kedua punggung jari tangan berada pada tulang iga-iga agar ibu merasakan gerekan dari iga-iga tersebut berkembang lalu dengan cara keluar nafasdari mulut, kemudian tarik nafas panjang, tiup nafas, lakukan 3x keluar nafas 3z tarik nafas. <br>
+                2. Latihan kaki yaitu kedua lengan berada disamping tubuh dan kedua kaki diluruskan kemudia buat gerakan plantar fleksi, dorso fleksi masing-masing 3x gerekan lalu dianjurkan dengan kedua telapak kaki berhadapan lalu dibuka masing-masing 3x gerak selanjutnya buatlah gerakan sircumdaksi keluar dan kedalam masing-masing 3x.<br>
+                3. Latihan otot perut dan orus dilakukan ringan otot pantat , latihan otot perut dan otot pantat harus dilakukan ringan yaitu dengan setengah gerakan saja dimulai dengan gerakan kompeskan perut, masukan pantat, dan lepaska buatlah 3x gerakan.<br>
+
+
+            </p>
+            <p class="lead">
+            Latihan SENAM NIFAS hari ke 2 <br>
+            1. Latihan hari 1 diulang kemudian ditambah dengan latihan pernafasan perut yaitu kedua telapak tangan berada diperut lalu tarik nafas dalam lewat hidung, kembungkan perut, lalu tiup nafas dan kompeskan perut lakukan gerakan ini 3x.<br>
+            2. Latihan otot dasar panggul posisi kedua lengan lurus disamping tubuh, kedua kali ditekuk, lalu buatlah gerakan kempeskan perut masukan pantat tahan sampai 3 hitungan lalu lepaskan, ulangi gerakan tadi 3-4x <br>
+            3. Latihan otot panggul posisi tidur terlentang kedua lengan disamping tubuh kedua kaki ditekuk laku buatlah gerakan kompeskan perut, masukan pantat, angkat badan sedikit dan tahan sebentar lalu turunkan lakukan gerakan ini 3-4x setiap kali latihan <br>
+            4. Latihan otot perut dengan angkat kepala posis tidur terlentang kedua kaki ditekuk, lalu angkat kepala dan badan sentuhkan tangan kanan pada lutut kiti turunkan kepala lalu angkat lagi kepala dan badan sentuhkan tangan kiri kelutut kanan, lakukan gerakan ini masing-masing 3-4x kali latihan.<br>
+            5. Latihan mengecilkan rahim ibu tidur dengan posisi tengkurep dan perut diganjal bantal 2 buah dan punggung kaki diganjal dengan 1 bantal lalu kepala menoleh kekiriatau kekanan lakukan sehabis makan siang dan biarkan sampai ibu tertidur.<br>
+            6. Latihan sikap baik posisi tidur terlentang kedua lengan disamping tubuh dan kaki lurus kedua terlapak kaki tegak, lakukan gerakan tarik belikat mendekati satu sama lain, kemudian kedua kaki dorong dan kepala tengang tahan sebentar lalu lepaskan, ulangi 3-4x gerakan setiap kali latihan.<br>
+            </p>    
+            <p></p>
+
             <p class="h4">
                 3.	Perawatan Payudara
             </p>
@@ -245,32 +265,39 @@
                 4. Meminum paracetamol setiap 4-5 jam untuk menghilangkan nyeri <br>
                 5. Apabila payudara bengkak akibat bendungan Asi, lakukan pengempresan payudara dengan menggunakan kain basah dan hangat selama 5 menit, mengurut payudara dari pangkal menuju putting mrnggunakan sisir untuk mengurut payudara dengan arah Z menuju putting, keluarkan susu sebagian dari bagian depan payudara sehingga putting susu menjadi lunak bayi di susuisetiap 2-3 jam dan apabila tidak dapat menghisap seluruh Asi sisanya dikeluarkan dengan tangan baru meletakkan kain dingin pada payudara setelah menyusi, payudara dikeringkan (mardiatun, 2013).<br>
             </p>
+            <p></p>
+            <p></p>
+
             <p class="h4">
                 4.	Meningkatkan Kebutuhan Nutrisi
             </p>
             <p class="lead">
                 Kebutuhan nutrisi seharusnya dimulai sejak mas kehamilan untuk menjaga kondisi kesehatan janin dan juga sang ibu. Nutrisi adekuat pada masa kehamilan diperlukan untuk dapat mengurangi resiko komplikasi pada ibu, membantu dalam pertumbuhan jaringan dan meningkatkan berat badan janin secaraoptimal sehingga bayi dapat lahir secara sehat. Kebutuhan nutrisi sangat penting selama proses pemulihan pasca melahirkan, kebutuhan nutrisi yang mencukupi dapar memenuhi asupan ASI dan juga mempercepat proses penyembuhan pada ibu (nadrah, 2020).
             </p>
+             <p class="lead">
+                Pada ibu nifas sangat memerlukan pemenuhan kebutuhan nutrisi dalam meningkatkan pemulihan kondisi yang baik setelah melahirkan. Makanan yang di komsumsi saat masa nifas adalah jenis makan yang mengandung empat sehat lima sempurna diantaranya ikan, telur, daging, susu, air, sayur, nasi dan buah-buahan.
+            </p>
+            <p class="lead">
+               Kebutuhan gizi saat nifas mengalami peningkatan. Dimana asupan kalori per hari mengalami peningkatan mencapai 2700 kalori dan asupan cairan ditingkatkan mencapai 3000 ml ( susu 1000ml) per harinya. Peningkatan asupan zat gizi tersebut dibutuhkan untuk penyembuhan luka dan kebutuhan laktasi(rahmawati,2017).
+            </p>
+            <p class="h5">
+                1. Mengkonsumsi tambahan 500 kalori/hari <br><br>
+                2. Diet seimbang ( cukup protein, mineral dan vitamin) ada pun protein baik hewani seperti daging ,ikan, telur, hati, otak, usus, limfa, udang, kepiting maupun nabati seperti tahu, tempe, kacang-kacangan. Mineral seperti sumber mineral: ikan, daging banyak mengandung kalsium, fosfor, zat besi , seng dan yodium. Vitamin yang cukup yang bersumber dari hewani dan nabati. <br><br>
+                3. Minum minimal 3 liter/hari dianjurkan ibu minum setiap kali menyusui. <br><br>
+                4. Suplemen besi dimimum setidaknya selama 3 bulan pascasalin, terutama di daerah dengan prevalensi pentingnya ASI esklusif. <br><br>
+                5. Suplemen vitamin A sebanyak 1 kapsul 200.000 IU diminum segera setelah persalinan dan 1 kapsul 200.000 IU diminum 24 jam kemudian.<br><br>
+            </p>
             <p class="h4">
                 5.	Eliminasi
             </p>
-            <p class="h5">
-                1.	Buang Air kecil (BAK)
-            </p>
             <p class="lead">
-                ibu diminta untuk buang air kecil 6 jam post partum. Jika dalam 8 jam post partum belum dapat berkemih atau sekali berkemih belum melalui 100cc, maka dilakukan kateterisasi. Akan tetapi, jika ternaya kandung kemih penuh, tidak perlu menunggu 8 jam untuk ketetrriasi
-            </p>
-            <p class="h5">
-                2.	Buang Air Besar (BAB)
-            </p>
-            <p class="lead">
-                Ibu post partum diharapkan dapat BAB setelah hari kedua post partum. Jika hari ketiga belum juga BAB, maka perlu diberi obat pencahar per oral atau per rectal. Jika setelah pemberian obat pencahar masih belum bisa BAB , maka dilakukan klisma (huknah)
+                Pengisin kandung kemih sering terjadi dan pengosongan spontan terhambat retensi urin, istensi berlebihan, fungsi kandungan kemih terganggu, infeksi. Miski normal dalam 2-6 jam PP dan setiap 3-4 jam. Jika belum berkemih OK penekanan sfingter, spasme karena iritasi m. spincter ani, edema KK, hematoma traktus genetalis  ambulasi ke kandung kemih. Tidak BAK dalam 24 jam kateterisasi (resiko ISK >> bakteriuri 40%) BAB harus dilakukan 3-4 hari PP jika tidak  laksan atau parafin/suppositoria. Ambulasi dini dan diet dapat mencegah konstipasi. Agar BAB teratur: diet teratur, pemberian cairan yang banyak, latihan dan olahraga(sukma,2017).
             </p>
             <p class="h4">
                 6. Istirahat
             </p>
             <p class="lead">
-                Ibu harus istirahat tidur telentang selama 8 jam psca persalinan.kemungkinan boleh miring kekanan kekiri untuk mencegah terjadinya thrombosis dan trombo emboli. Pada hari kedua diperbolehkan duduk, hari ketiga berjalan-jalan dan hari keempat atau kelima sudah diperbolehkan pulang. Keuntungan dari mobilisasi dini adalah melancarkan pengeluaran lochia, mengurangi infeksi purperium, mempercepat involusi alat kandungan, melancarkan fungsi alat gastrointestinal dan alat perkemihan, meningkatkan kelancaran peredaran darah sehingga mempercepat fungsi ASI dan pengeluaran sisa metabolisme (Nasution, S.S, 2018).
+               Mobilisasi dini adalah mobilisasi segera setelah melahirkan dengan membimbing ibu untuk bangun dari tempat tidurnya. Anjurkan ibu untuk memulai mobilisasi dengan miring kanan/kiri, duduk kemudian berjalan . mobilisasi dini ini dilakukan secara perlahan namum meningkat secara berangsur-angsur mulai dari jalan-jalan ringan dari jam ke jam setelah proses persalinan sampai hitungan hari pasien dapat melakukannya secara sendiri tanpa bantuan pendamping. Ibu harus istirahat tidur telentang selama 8 jam pasca persalinan. kemungkinan boleh miring kekanan kekiri untuk mencegah terjadinya thrombosis dan trombo emboli. Pada hari kedua diperbolehkan duduk, hari ketiga berjalan-jalan dan hari keempat atau kelima sudah diperbolehkan pulang. Keuntungan dari mobilisasi dini adalah melancarkan pengeluaran lochea, mengurangi infeksi purperium, mempercepat involusi alat kandungan, melancarkan fungsi alat gastrointestinal dan alat perkemihan, meningkatkan kelancaran peredaran darah sehingga mempercepat fungsi ASI dan pengeluaran sisa metabolisme (Nasution, S.S, 2018).Pada ibu post partum membutuhkan istirahat dan tidur yang cukup berguna untuk memperlancar keluarnya ASI, mempercepat proses involusi uterus, serta memulihkan keadaan setelah hamil dan melahirkan agar dapat menjalani aktivitas sehari-hari. Kebutuhan istirahat ibu menyusui 8 jam perhari melalui istirahat siang dan malam (novitasari, dkk 2018).
             </p>
         </div>
 
