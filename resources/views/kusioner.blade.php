@@ -1,9 +1,28 @@
 @extends('layouts.app')
 
+
+
 @section('content')
+
+@if ($user_result_count>=2)
+    <div class="container py-5 center">
+    <center>
+        <img src="{{ asset('storage/images/done.svg') }}" alt="Done image" class="img-fluid center"
+            style="height: 400px" />
+        <div class="container py-4">
+            <h1>Ibu Telah Menyelesaikan Pre Test dan Post Test</h1>
+
+        </div>
+@else
+    
 <div class="container mb-5">
  <div class="py-5 text-center ">
       <h2>Kusioner Pengetahuan Sehat Nifas</h2>
+      @if ($user_result_count>=0)
+             <p class="lead">Post Test</p>   
+      @else
+                <p class="lead">Pre Test</p
+      @endif
       <p class="lead">Ayo Ibu jawab pertanyaan pertanyaan berikut</p>
     </div>
 
@@ -42,4 +61,6 @@
         </form>
       </div>
     </div>
+@endif
+
 @endsection

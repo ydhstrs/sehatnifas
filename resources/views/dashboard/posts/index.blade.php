@@ -61,6 +61,7 @@
                                     <th scope="col">Pendidikan Terakhir</th>
                                     <th scope="col">Pekerjaan</th>
                                     <th scope="col">Jumlah Anak</th>
+                                    <th scope="col">Status</th>
                                     <th scope="col">Lihat</th>
                                 </tr>
                             </thead>
@@ -75,6 +76,12 @@
                                     <td>{{ $userInput->user->lastEducation }}</td>
                                     <td>{{ $userInput->user->profession }}</td>
                                     <td>{{ $userInput->user->numberOfChildren }}</td>
+                                    @if ( $userInput->status ==0)
+                                         <td>Pre</td>
+                                    @else
+                                         <td>Post</td>
+                                    @endif
+                                   
                                     <td>
                                         <a href="/dashboard/posts/{{ $userInput->id }}" class="badge bg-info"><span
                                                 data-feather="eye"></span></a>

@@ -11,13 +11,16 @@ class UserResult extends Model
     use HasFactory;
     protected $fillable = [
         'user_id',
+        'status'
     ];
 
-    public function answere(){
-        return $this->hasMany(UserAnswere::class,'id','user_result_id');
+    public function answere()
+    {
+        return $this->hasMany(UserAnswere::class, 'id', 'user_result_id');
     }
 
-    public function user(){
-        return $this->hasOne(User::class,'id','user_id');
+    public function user()
+    {
+        return $this->hasOne(User::class, 'id', 'user_id');
     }
 }

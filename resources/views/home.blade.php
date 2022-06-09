@@ -23,7 +23,7 @@
 
     <!-- Three columns of text below the carousel -->
     <div class="row">
-        <div class="col-lg-4">
+        <div class="col-lg-6">
             <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/pengertian.svg') }}" alt="Welcome image" class="img-fluid center"
              />
 
@@ -34,7 +34,7 @@
                 setelah persalinan hal yang bias terjadi pada masa nifas adalah ibu biasa mengalami pendarahan ataupun
                 peradangan yang dapat menyebabkan kematian</p>
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
+        <div class="col-lg-6">
              <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/pemulihan.svg') }}" alt="Welcome image" class="img-fluid center"
              />
 
@@ -43,19 +43,20 @@
                 oleh seorang wanita. Pengamatan pasca kehamilan harus dilakukan dengan hati-hati terhadap perubahan
                 fisiologis yang dialami ibu dan harus melihat indikasi keadaan obsestif pada setiap tahap.</p>
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-4">
+        
+    </div><!-- /.row -->
+
+    <div class="row">
+        <div class="col-lg-6">
             <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/nass.svg') }}" alt="Welcome image" class="img-fluid center"
              />
 
-            <h2> <a href="program"> Kebijakan Program Nasional Nifas </a></h2>
+            <h2> <a href="#program"> Kebijakan Program Nasional Nifas </a></h2>
             <p>Selama ibu berada pada masa nifas, pemerintahan melakukan kebijakan yaitu minimal melakukan empat kali
                 kunjungan yang dilakukan oleh tenaga medis upaya mengurangi terjadinya komplikasi pada masa nifas, serta
                 menurunkan angka kematian ibu.</p>
         </div><!-- /.col-lg-4 -->
 
-    </div><!-- /.row -->
-
-    <div class="row">
         <div class="col-lg-6">
                  <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/workout.svg') }}" alt="Welcome image" class="img-fluid center"
              />
@@ -65,15 +66,7 @@
                 organ-organ produksi. selama masa nifas, yakni dimulai dari akhir persalinan dan berakhir hingga
                 kembalinya organ-organ reproduksi seperti keadaan sebelum hamil</p>
         </div><!-- /.col-lg-4 -->
-        <div class="col-lg-6">
-              <img class="bd-placeholder-img rounded-circle" width="140" height="140" preserveAspectRatio="xMidYMid slice" slice" focusable="false" src="{{ asset('storage/images/danger.svg') }}" alt="Welcome image" class="img-fluid center"
-             />
 
-            <h2> <a href="bahaya">Tanda Bahaya Pada Nifas </a></h2>
-            <p>Tanda bahaya masa nifas adalah keadaan abnormal yang mengindikasikan adanya bahaya/komplikasi yang akan
-                terjadi pada ibu nifas, dimana jika tidak ditangani dan dilaporkan akan sangat berbahaya bagi kesehatan
-                ibu nifas. </p>
-        </div><!-- /.col-lg-4 -->
 
 
     </div><!-- /.row -->
@@ -307,100 +300,8 @@
                 </iframe>
 
             </div>
-        <hr class="featurette-divider">
 
-    <div class="row featurette" id="bahaya">
-                <div class="col-md-7 order-md-2">
-
-            <h2>Tanda Bahaya Nifas</h2>
-            <p class="lead">Penjelasan pada wanita atau ibu nifas mengenai tanda-tanda bahaya masa nifas sangat penting dan perlu, oleh karena masih banyak ibu atau wanita yang sedang hamil atau pada masa nifas belum mengetahi tentang tanda-tanda bahaya masa nifas, baik yang diakibatkan masuknya kumat ke dalam alat kandunganseperti kuman oksogen ( kuman dating dari luar), autogen (kuman masuk dari tempat lain dalam tubuh dan endogen dari jalan lahir sendiri) (siallagan, dkk.2020).Tanda bahaya masa nifas adalah keadan abnormal yang mengindikasikan adanya bahaya/komplikasi yang akan terjadi pada ibu nifas, dimana jika tidak ditangani dan dilaporkan akan sangat berbahaya bagi kesehatan ibu nifas.
-            </p>
-            <p class="h4">
-                1.	Pendarahan postpartum
-            </p>
-            <p class="lead">
-            Pendarahan postpartum adalah pendarahan lebih dari 500cc yang terjadi setelah bayi lahir pervaginam atau lebih dari 1.000 ml setelah persalina abdominal. Kondisi dalam persalinan menyebabkan kesulitan untuk menentukan jumlah pendarahan disebutkan sebagai perdarahan yang lebih dari normal yang telah menyebabkan perubahan tanda vital, antara lain pasien mengeluh lemah, berkeringat dingin, mengigil, hipernea, tekanan darah sistolik < 90 mmHg, denyut nadi >100/menit, kadar Hb >8 g/dl (hikmah dan yani, 2015).
-            <br>
-            Perdarahan post partum dibedakan menjadi dua yaitu:
-            <br>
-            a. Pendarahan postpartum primer yakni pendarahan yang terjadi pada 24 jam pertama setelah anak lahir sebanyak 500-600 ml, yang disebabkan biasanya terjadi pada hari ke 5 sampai hari ke 15 postpartum, yang disebabkan oleh robekan jalan lahir dan sisa plasenta atau membrane.
-            <br>
-            b. Pendarahan postpartum sekunder yakni perdarahan yang terjadi setelah 24 jam pertama hingga selesai masa nifas. Pendarahan sekunder biasanya beberapa perkembangan definisi perdarahan
-            </p>
-            <p class="h4">
-                2.  Lochea Berbau Busuk
-            </p>
-            <p class="lead">
-                Lochea adalah sekret yang berasa dari dalam rahim terutama luka bekas implantasi plasenta yang keluar dari vagina. Lochea merupakan pembersihan uterus setelah melahirkan yang mikroakopik terdiri dari eritrosit, jaringan desidua, sel-sel epitel dan bakteri yang dikeluarkan pada awal masa nifas.Lochea ini dibagi berdasarkan warna dan kandungannya:
-            </p>
-            <p class="h5">
-                 a. Lochea rubra 
-            </p>
-            <p class="lead">
-                Keluar pada hari pertama sampai hari ketiga post partum. Lochea ini berwarna merah berisi eritrosit, lekosit, sel-sel desidua, vernik kaseosa, rambut lanugo, sis mekonium dan sisa-sisa selaput ketuban
-            </p>
-            <p class="h5">
-                b. Lochea serosa
-            </p>
-            <p class="lead">
-                Lochea ini keluar keempat sampai kesepuluh post partum dengan warna kuning kecoklatan. Mengandung sel darah, serum, leukosit dan sisa-sisa jaringan dan sejumlah mikroorganisme.
-            </p>
-            <p class="h5">
-                c. Lochea alba 
-            </p>
-            <p class="lead">
-                Lochea ini keluar mulai pada hari kesepuluh sampai minggu ke 2-6 post partum. Berwarna putih kekuningan, tidak mengandung darah, berisi sel leukosit, sel-sel epitel dan lendir serviks.Jika pengeluaran lochea berkepanjangan, pengeluaran lochea tertahan, lochea yang spurulenta(nanah), rasa nyeri yang berlebihan, terdapat sisa plasenta merupakan indikasi perdarahan dan infeksi intra uterin
-            </p>
-            <p class="h4">
-                3.	Sub Involusi Uterus 
-            </p>
-            <p class="lead">
-                Sub involusi uterus terjadi karena adanya sisa plasenta dan infeksi. Sub involusi uterus menyebabkan kontrasi uterus menurun sehingga pembuluh darah yang lebar tidak terjadi terus menerus. Pada pemeriksaan bimanual ditemukan uterus lebih besar dan lebih lembek dari seharusnya. Fundus masih tinggi, lochea banyak dan berbau, dan tidak jarang terdapat pula pendarahan (fairus, 2017).
-            </p>
-            <p class="h4">
-                4.	Infeksi pada masa nifas
-            </p>
-            <p class="lead">
-                Infeksi masa nifas masih berperan sebagai penyebab utama kematian ibu terutama di Negara berkembang seperti di Indonesia, masalah itu terjadi akibat pelayanan perawatan yang masih jauh dari kata sempurna. Infeksi pada masa nifas adalah masuknya bakteri atau mikroorganisme pada traktus genitalia setelah persalinan selesai, suhu naik hingga 380 C atau lebih selama 2 haridalam 10 hari pertama selesai melahirkan, dengan pengecualian 24 jam pertama (hasibuan, 2021).
-                <br>
-                Bakteri Stabylococcus aureus menyebabkan salah satu dari penyakit infeksi yang telah dilaporkan mengalami peningkatan di seluruh dunia. Stabylococcus aureus sering menimbulkan infeksi nosokomial pada bayi, pasien luka bakar, dan pasien bedah di rumah sakit. Selain itu stabylococcus aureus juga dapat menyebabkan infeksi luka jahitan di daerah perineum sebanyak 50% dan infeksi luka bekas oprasi Caesar (wijayanti, 2018).
-                <br>
-                Faktor pemicu yang menyebabkan terjadinya masa nifas adalah:
-            </p>
-            <p class="h5">
-                1. Alat-alat yang digunakan tidak sepenuhnya steril <br>
-                2. Terjadinya kontraminasi bakteri dari hidung atau tenggorokan petugas kesehatan yang menderitainfeksi saluran pernafasan <br>
-                3. Hubungan seksual di akhir kehamilan dapat menyebabakan pecahnya ketuban sehingga berisiko masuknya bakteri penyebab infeksi <br>
-            </p>
-            <p class="lead">
-                Tanda dan gejala infeksi secara umum menurut kutipan ( hasibuan, 2021).
-            </p>
-            <p class="h5">
-                1. Rasa sakit atau tidak nyaman, dengan atau tanpa pembengkakan di area 
-                abdominal bawah usai beberapa hari melahirkan <br>
-                2. Rasa sakit yang tak kunjung di daerah parineal <br>
-                3. Bengkak ditempat tertentu dan kemerahan, panas, dan keluar darah di tempat insisi ceaser <br>
-                4. Sakit kepala, pusing dan lemas yang berlebihan serta pengelihatan kabur.Sakit kepala adalah suatu kondisi sakit kepala (terkadang sakit dibelakang leher atau punggung atas). Sakit kepala yang parah dapat menyebabkan penglihatan kabur atau bayangan, menyebabakan edema otak dan menyebabakan resistensi otak yang mempengaruhi sistem saraf pusat, mengakibatkan kelainan serebral(sakit kepala, kejang) dan gangguan penglihatan . <br>
-            </p>
-            <p class="h4">
-                5. Payudara bengkak
-            </p>
-            <p class="lead">
-                Pembengkakam payudara adalah akibat bendungan yang terjadi karena penyempitan duktus lakitiferus atau kelenjar tidak dikosongkan secara sempurna sehingga panyudara terasa lebih penuh, panas, keras, dan nyeri, disertai dengan kenaikan suhu tubuh.
-            </p>
-            
-            
-        </div>
-        <div class="col-md-5">
-           
-              <img src="{{ asset('storage/images/danger.svg') }}" alt="Welcome image" class="img-fluid center"
-            style="height: 400px" />
-        <div class="container py-4">
-            
-
-
-        </div>
-    </div>
+   
 
     <!-- /END THE FEATURETTES -->
     @endsection
