@@ -2,9 +2,9 @@
     <div class="position-sticky pt-3">
         <ul class="nav flex-column">
             <li class="nav-item">
-                <a class="nav-link {{ Request::is('dashboard/posts') ? 'active' :'' }}" href="/home">
+                <a class="nav-link {{ Request::is('dashboard/posts') ? 'active' :'' }}" href="/dashboard/posts">
                     <span data-feather="book"></span>
-                    Hasil Pretest dan Post Test
+                    Hasil Tes
                 </a>
             </li>
         </ul>
