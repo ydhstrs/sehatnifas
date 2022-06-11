@@ -18,10 +18,10 @@
 <div class="container mb-5">
  <div class="py-5 text-center ">
       <h2>Kusioner Pengetahuan Sehat Nifas</h2>
-      @if ($user_result_count>=0)
-             <p class="lead">Post Test</p>   
+      @if ($user_result_count==0)
+             <p class="lead">Pre Test</p>   
       @else
-                <p class="lead">Pre Test</p
+                <p class="lead">Post Test</p
       @endif
       <p class="lead">Ayo Ibu jawab pertanyaan pertanyaan berikut</p>
     </div>
@@ -36,19 +36,19 @@
               <div class="col">
                 <label for="firstName" class="form-label">{{ $loop->iteration}}. {{ $kusioner->soal}}</label>
               <div class="col">
-                <input type="radio" id="opsi1" name="jawaban{{$loop->iteration}}" value="1">
+                <input type="radio" id="opsi1" name="jawaban{{$loop->iteration}}" value="1" required>
                 <label for="html">{{$kusioner->opsi1}}</label><br>
   
-                <input type="radio" id="opsi2" name="jawaban{{$loop->iteration}}" value="2">
+                <input type="radio" id="opsi2" name="jawaban{{$loop->iteration}}" value="2" required>
                 <label for="css">{{$kusioner->opsi2}}</label><br>
   
-                <input type="radio" id="opsi3" name="jawaban{{$loop->iteration}}" value="3">
+                <input type="radio" id="opsi3" name="jawaban{{$loop->iteration}}" value="3" required>
                 <label for="javascript">{{$kusioner->opsi3}}</label><br>
   
-                <input type="radio" id="opsi4" name="jawaban{{$loop->iteration}}" value="4">
+                <input type="radio" id="opsi4" name="jawaban{{$loop->iteration}}" value="4" required>
                 <label for="javascript">{{$kusioner->opsi4}}</label>
 
-                <input hidden name="kusionerId{{$loop->iteration}}" value="{{$kusioner->id}}">
+                <input hidden name="kusionerId{{$loop->iteration}}" value="{{$kusioner->id}}" required>
               </div>
               </div>
               <br/>

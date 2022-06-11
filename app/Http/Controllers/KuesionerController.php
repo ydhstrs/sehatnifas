@@ -26,12 +26,26 @@ class KuesionerController extends Controller
         $userResultStatus = UserResult::where('user_id', $userId)->count();
 
 
+        $kuesioners = kuesioner::all();
+        $hasilJawaban = 0;
+        $jawabanBenarUser = 0;
+        for($i=0;$i<$kuesioners->count();$i++){
+            $stringJawban = "jawaban" . $i+1;
+            $jawab = $request[$stringJawban];
+            if($jawab == $kuesioners[$i]->jawaban){
+                $jawabanBenarUser+=1;
+            }
+           
+        }
+        $hasilJawaban = ($jawabanBenarUser/$kuesioners->count())*100;
+        $size = $request['jumlah_soal'];
+
         $userResult = UserResult::create([
             'user_id' => $userId,
             'status' => $userResultStatus,
+            'hasil_jawaban' => $hasilJawaban,
         ]);
 
-        $size = $request['jumlah_soal'];
         for ($i = 1; $i <= $size; $i++) {
             $stringJawban = "jawaban" . $i;
             $stringKusionerId = 'kusionerId' . $i;

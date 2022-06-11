@@ -11,7 +11,8 @@ class UserResult extends Model
     use HasFactory;
     protected $fillable = [
         'user_id',
-        'status'
+        'status',
+        'hasil_jawaban'
     ];
 
     public function answere()
