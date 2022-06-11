@@ -124,29 +124,32 @@
                                         @enderror
                                         <!-- end new form -->
                                         <!-- new form -->
-                                       <!-- end new form -->
-                                        <!-- new form -->
                                         <div class="form-outline mb-4">
-                                            <label class="form-label"
-                                                for="form2Example17">{{ __('Pekerjaan') }}</label>
-                                            <input id="profession" type="profession"
-                                                class="form-control @error('profession') is-invalid @enderror" name="profession"
-                                                value="{{ old('profession') }}" required autocomplete="profession" autofocus>
-                                        </div>
+                                        <label class="form-label"
+                                            for="form2Example17">{{ __('Agama') }}</label>
+                                        <input id="agama" type="agama"
+                                            class="form-control @error('agama') is-invalid @enderror" name="agama"
+                                            value="{{ old('agama') }}" required autocomplete="agama" autofocus>
+                                       </div>
                                         @error('agama')
                                         <span class="invalid-feedback" role="alert">
-                                            <strong>{{ $agama }}</strong>
+                                            <strong>{{ $agama}}</strong>
                                         </span>
                                         @enderror
-                                        <!-- end new form -->
+                                    <!-- end new form -->
                                         <!-- new form -->
                                         <div class="form-outline mb-4">
                                             <label class="form-label"
-                                                for="form2Example17">{{ __('Agama') }}</label>
-                                            <input id="agama" type="agama"
-                                                class="form-control @error('agama') is-invalid @enderror" name="agama"
-                                                value="{{ old('agama') }}" required autocomplete="agama" autofocus>
+                                                for="form2Example17">{{ __('Jumlah Anak') }}</label>
+                                            <input id="numberOfChildren" type="numberOfChildren"
+                                                class="form-control @error('numberOfChildren') is-invalid @enderror" name="numberOfChildren"
+                                                value="{{ old('numberOfChildren') }}" required autocomplete="numberOfChildren" autofocus>
                                         </div>
+                                        @error('numberOfChildren')
+                                        <span class="invalid-feedback" role="alert">
+                                            <strong>{{ $numberOfChildren}}</strong>
+                                        </span>
+                                        @enderror
                                         <!-- end new form -->
                                         <!-- new form -->
                                         <div class="form-outline mb-4">
