@@ -126,10 +126,27 @@
                                         <!-- new form -->
                                         <div class="form-outline mb-4">
                                         <label class="form-label"
-                                            for="form2Example17">{{ __('Agama') }}</label>
-                                        <input id="agama" type="agama"
-                                            class="form-control @error('agama') is-invalid @enderror" name="agama"
-                                            value="{{ old('agama') }}" required autocomplete="agama" autofocus>
+                                            for="form2Example17">{{ __('Agama') }}</label><br>
+                                                                        
+                                            <input type="radio" id="agama" name="agama" value='Islam'required>
+                                            <label for="islam">Islam</label><br>
+
+                                            <input type="radio" id="agama" name="agama" value='Kristen Protestan' required>
+                                            <label for="kristen protestan">Kristen Protestan</label><br>
+                            
+                                            <input type="radio" id="agama" name="agama" value='Katholik'" required>
+                                            <label for="kahtolik">Katholik</label><br>
+    
+                                            <input type="radio" id="agama" name="agama" value='Hindu' required>
+                                            <label for="hindu">Hindu</label><br>
+
+                                            <input type="radio" id="agama" name="agama" value='Budha' required>
+                                            <label for="budha">Budha</label><br>
+
+                                            <input type="radio" id="agama" name="agama" value='Lainnya' required>
+                                            <label for="Lainnya">Lainnya</label>
+
+            
                                        </div>
                                         @error('agama')
                                         <span class="invalid-feedback" role="alert">

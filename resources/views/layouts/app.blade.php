@@ -36,6 +36,11 @@
         a {
             color: gray
         }
+
+
+            label {
+                display:inline;
+            }
     </style>
 
 </head>
