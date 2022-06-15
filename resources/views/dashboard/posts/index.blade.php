@@ -57,8 +57,7 @@
                                     <th scope="col">No</th>
                                     <th scope="col">Nama</th>
                                     <th scope="col">Email</th>
-                                    <th scope="col">Jumlah Anak</th>
-                                    <th scope="col">Hasil Jawab</th>
+                                    <th scope="col">Nilai Test</th>
                                     <th scope="col">Status</th>
                                     <th scope="col">Lihat Tes</th>
                                     <th scope="col">Lihat Profil</th>
@@ -71,7 +70,6 @@
                                     </td>
                                     <td>{{ $userInput->user->name }}</td>
                                     <td>{{ $userInput->user->email }}</td>
-                                    <td>{{ $userInput->user->numberOfChildren }}</td>
                                     <td>{{ $userInput->hasil_jawaban}}</td>
                                     @if ( $userInput->status ==0)
                                          <td>Pre</td>
