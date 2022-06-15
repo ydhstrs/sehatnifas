@@ -54,28 +54,6 @@
       </div>
 
       <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
-
-      <h2>Daftar Nama Pengguna</h2>
-      <div class="table-responsive">
-        <table class="table table-striped table-sm">
-          <thead>
-            <tr>
-              <th scope="col">#</th>
-              <th scope="col">Nama</th>
-              <th scope="col">Email</th>
-              <th scope="col">Tanggal Lahir</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>1</td>
-              <td>Suryani</td>
-              <td>suryani@gmail.com</td>
-              <td>22 - 05 1980</td>
-            </tr>
-            
-          </tbody>
-        </table>
       </div>
     </main>
     

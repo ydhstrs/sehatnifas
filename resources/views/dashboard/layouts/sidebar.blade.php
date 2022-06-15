@@ -6,6 +6,10 @@
                     <span data-feather="book"></span>
                     Hasil Tes
                 </a>
+                <a class="nav-link {{ Request::is('dashboard/') ? 'active' :'' }}" href="/home">
+                    <span data-feather="book"></span>
+                    Home
+                </a>
             </li>
         </ul>
 

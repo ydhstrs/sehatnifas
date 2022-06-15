@@ -145,8 +145,6 @@
 
                                             <input type="radio" id="agama" name="agama" value='Lainnya' required>
                                             <label for="Lainnya">Lainnya</label>
-
-            
                                        </div>
                                         @error('agama')
                                         <span class="invalid-feedback" role="alert">

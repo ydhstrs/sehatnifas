@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Http\Controllers\Controller;
 use App\Models\UserAnswere;
 use App\Models\UserResult;
+use App\Models\User;
 use Illuminate\Http\Request;
 
 class UserResultController extends Controller
@@ -18,6 +19,7 @@ class UserResultController extends Controller
            'userInputs'=> $data
         ]);
     }
+    
 
     public function getAllResult(){
         $data = UserResult::with(['user'])->get();
@@ -29,6 +31,15 @@ class UserResultController extends Controller
         return view('dashboard.posts.show',[
             "title"=> "Single Home",
             'answeres'=>$data
+        ]);
+    }
+    public function edit($id){
+        $data = User::find($id);
+
+            
+        return view('dashboard.posts.edit',[
+    
+            'usere'=>$data
         ]);
     }
 }

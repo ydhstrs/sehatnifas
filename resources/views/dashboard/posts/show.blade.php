@@ -28,6 +28,40 @@
           font-size: 3.5rem;
         }
       }
+      .button {
+  border: none;
+  color: white;
+  padding: 6px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
     </style>
 
     
@@ -44,6 +78,9 @@
 @include('dashboard.layouts.sidebar')
 
     <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+        <form method="get" action="/dashboard/posts">
+    <button class="button button2">Kembali</button>
+  </form>
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
         <h1 class="h2">Halaman Detail Jawaban Pengguna</h1>
         <div class="btn-toolbar mb-2 mb-md-0">

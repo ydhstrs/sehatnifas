@@ -57,13 +57,11 @@
                                     <th scope="col">No</th>
                                     <th scope="col">Nama</th>
                                     <th scope="col">Email</th>
-                                    <th scope="col">Umur</th>
-                                    <th scope="col">Pendidikan Terakhir</th>
-                                    <th scope="col">Pekerjaan</th>
                                     <th scope="col">Jumlah Anak</th>
                                     <th scope="col">Hasil Jawab</th>
                                     <th scope="col">Status</th>
-                                    <th scope="col">Lihat</th>
+                                    <th scope="col">Lihat Tes</th>
+                                    <th scope="col">Lihat Profil</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -73,9 +71,6 @@
                                     </td>
                                     <td>{{ $userInput->user->name }}</td>
                                     <td>{{ $userInput->user->email }}</td>
-                                    <td>{{ $userInput->user->age }}</td>
-                                    <td>{{ $userInput->user->lastEducation }}</td>
-                                    <td>{{ $userInput->user->profession }}</td>
                                     <td>{{ $userInput->user->numberOfChildren }}</td>
                                     <td>{{ $userInput->hasil_jawaban}}</td>
                                     @if ( $userInput->status ==0)
@@ -86,6 +81,10 @@
                                    
                                     <td>
                                         <a href="/dashboard/posts/{{ $userInput->id }}" class="badge bg-info"><span
+                                                data-feather="eye"></span></a>
+                                    </td>
+                                    <td>
+                                        <a href="/dashboard/posts/{{ $userInput->user->id }}/edit" class="badge bg-warning"><span
                                                 data-feather="eye"></span></a>
                                     </td>
                                 </tr>
