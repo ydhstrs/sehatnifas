@@ -150,16 +150,14 @@
             <p class="h4">
                 1. Perawatan Perineum </p>
             <p class="lead">
-                Perawatan perineum adalah upaya dalam memberikan pemenuhan kebutuhan rasa nyaman dengan cara menyehatkan
-                daerah antara kedua paha yang dibatasi antara lubang dubur dan bagian kelamin luar pada wanita setelah
-                melahirkan agar terhindar dari infeksi bakteri.<br>
+                 Perawatan perineum adalah upaya dalam memberikan pemenuhan kebutuhan rasa nyaman dengan cara menyehatkan daerah antara kedua paha yang dibatasi antara lubang dubur dan bagian kelamin luar pada wanita setelah melahirkan agar terhindar dari infeksi bakteri (nandia dkk,. 2021). Rasa nyeri dan tidak nyaman di area perineum dapat diatasi dengan menggunakan kompres dingin pada area perineum setiap 2 jamm sekali selama 24 jam pertama sesudah melahirkan. Setelah 24 jam, kompres hangat, duduk di dalamair hangat atau menggunakan lampu pemanas selama 20 menit, 3 kali seharijuga dapat digunakan untuk meredakan ketidaknyamanan dan meningkatkan penyembuhan melalui vasodilatsi pembulu darah perinial. Pada saat memasang pembalut haruslah dari depan ke belakang agar tidak terjadi penyebaran bakteri dari anus ke vagina. Setelah ibu selesai BAK atau BAB, ibu dapat mengalirkan atau membilas area perineum dengan air hangat atau cairan antiseptic, kemudian mengeringkannya dengan kain pembalut atau handuk dengan cara ditepuk-tepuk tetap dari arah depan ke belakang. Menjaga kebersihan selama masa nifas perlu dilakukan untuk menghindari infeksi, termasuk pada jahitan atau kulit (Hasibuan,2021) :<br>
             <p class="h5">
                 a. Kebersihan Organ Reproduksi<br></p>
             <p class="lead">
                 Setelah melahirkan, perineum biasanya menjadi sedikit bengkak/memar bias terjadi karena ada laserasi
                 atau episiotomy.
             <p class="h5">
-                b. Membersihkan Vagina </p>
+                b. Personal Hygiene </p>
             <p class="lead">
                 Pada dasarnya kebersihan vaginapada saat nifas terdapat beberapa alasan:
 
@@ -170,16 +168,14 @@
             <p class="h5">
                 c. Menjaga kebersihan vagina <br> </p>
             <p class="lead">
-                Langkah-langkah menjaga kebersihan vagina yang benar:<br>
-                • Setelah setiap buang air kecil dan besar, basuhlah lubang vagina dengan
-                air sampai bersih.<br>
-                • Air yang digunakan tidak perlu direbus asalkan bersih. Cuci dari depan kebelakang sampai tidak ada
-                kotoran yang tersisa di sekitar vagina, dari urin dan feses yang mengandung bakteri dan bakteri yang
-                dapat menyebabkan infeksi luka jahitan.<br>
-                • Vagina bias dibersihkan dengan sabun atau disinfektan karena bias berfungsi untuk menghilangkan kuman,
-                yang terpenting jangan takut memegan daerah tersebut dan lakukan dengan hati-hati.<br>
-                • Jika ibu benar-benar tidak berani menyentuh jahitanya, uasahkan tetap bersih bisa dilakukan dengan
-                duduk dan berendam di air disinfektan selama 10 menit. Jalankan setelah melakukan BAB atau BAK.<br><br>
+               Langkah-langkah menjaga kebersihan vagina yang benar (Hasibuan, 2021):<br><br>
+                1. Setelah setiap buang air kecil dan besar, basuhlah lubang vagina dengan air sampai bersih.<br><br>
+                2. Mengganti pembalu setiap 6 jam minimal 2 kali sehari <br><br>
+                3. Menghindari menyentuh luka perineum<br><br>
+                4. Membersihkan salep, betadine pada luka<br><br>
+                5. Air yang digunakan tidak perlu direbus asalkan bersih. Cuci dari depan kebelakang sampai tidak ada kotoran yang tersisa di sekitar vagina, dari urin dan feses yang mengandung bakteri dan bakteri yang dapat menyebabkan infeksi luka jahitan.<br><br>
+                6. Vagina bisa dibersihkan dengan sabun atau disinfektan karena bisa berfungsi untuk menghilangkan kuman, yang terpenting jangan takut memegan daerah tersebut dan lakukan dengan hati-hati.<br><br>
+                7. Jika ibu benar-benar tidak berani menyentuh jahitannya, usahakan tetap bersih bisa dilakukan dengan duduk dan berendam di air disinfektan selama 10 menit. Jalankan setelah melakukan BAB atau BAK.<br><br>
 
             </p>
             <p class="h4">
@@ -210,21 +206,21 @@
             </p>
             <p class="lead">
                Latihan senam nifas hari 1 <br>
-                Sebaiknya SENAM NIFAS dikerjakan dalam 24 jam pertama apabila ibu bersalin normal dalam 6 jam pertama biasanya ibu yang kelelahan karena baru saja selesai melahirkan, maka senam nifas ini bertujuan untuk mengurangi rasa lelah yang dialami ibu tersebut, hal-hal yang harus dianjurkan sebagai berikut: <br>
-                1.	Latihan pernafasan iga-iga dengan kedua punggung jari tangan berada pada tulang iga-iga agar ibu merasakan gerekan dari iga-iga tersebut berkembang lalu dengan cara keluar nafasdari mulut, kemudian tarik nafas panjang, tiup nafas, lakukan 3x keluar nafas 3z tarik nafas. <br>
-                2. Latihan kaki yaitu kedua lengan berada disamping tubuh dan kedua kaki diluruskan kemudia buat gerakan plantar fleksi, dorso fleksi masing-masing 3x gerekan lalu dianjurkan dengan kedua telapak kaki berhadapan lalu dibuka masing-masing 3x gerak selanjutnya buatlah gerakan sircumdaksi keluar dan kedalam masing-masing 3x.<br>
+                Sebaiknya SENAM NIFAS dikerjakan dalam 24 jam pertama apabila ibu bersalin normal dalam 6 jam pertama biasanya ibu yang kelelahan karena baru saja selesai melahirkan, maka senam nifas ini bertujuan untuk mengurangi rasa lelah yang dialami ibu tersebut, hal-hal yang harus dianjurkan sebagai berikut: <br><br>
+                1.	Latihan pernafasan iga-iga dengan kedua punggung jari tangan berada pada tulang iga-iga agar ibu merasakan gerekan dari iga-iga tersebut berkembang lalu dengan cara keluar nafasdari mulut, kemudian tarik nafas panjang, tiup nafas, lakukan 3x keluar nafas 3z tarik nafas. <br><br>
+                2. Latihan kaki yaitu kedua lengan berada disamping tubuh dan kedua kaki diluruskan kemudia buat gerakan plantar fleksi, dorso fleksi masing-masing 3x gerekan lalu dianjurkan dengan kedua telapak kaki berhadapan lalu dibuka masing-masing 3x gerak selanjutnya buatlah gerakan sircumdaksi keluar dan kedalam masing-masing 3x.<br><br>
                 3. Latihan otot perut dan orus dilakukan ringan otot pantat , latihan otot perut dan otot pantat harus dilakukan ringan yaitu dengan setengah gerakan saja dimulai dengan gerakan kompeskan perut, masukan pantat, dan lepaska buatlah 3x gerakan.<br>
 
 
             </p>
             <p class="lead">
             Latihan SENAM NIFAS hari ke 2 <br>
-            1. Latihan hari 1 diulang kemudian ditambah dengan latihan pernafasan perut yaitu kedua telapak tangan berada diperut lalu tarik nafas dalam lewat hidung, kembungkan perut, lalu tiup nafas dan kompeskan perut lakukan gerakan ini 3x.<br>
-            2. Latihan otot dasar panggul posisi kedua lengan lurus disamping tubuh, kedua kali ditekuk, lalu buatlah gerakan kempeskan perut masukan pantat tahan sampai 3 hitungan lalu lepaskan, ulangi gerakan tadi 3-4x <br>
-            3. Latihan otot panggul posisi tidur terlentang kedua lengan disamping tubuh kedua kaki ditekuk laku buatlah gerakan kompeskan perut, masukan pantat, angkat badan sedikit dan tahan sebentar lalu turunkan lakukan gerakan ini 3-4x setiap kali latihan <br>
-            4. Latihan otot perut dengan angkat kepala posis tidur terlentang kedua kaki ditekuk, lalu angkat kepala dan badan sentuhkan tangan kanan pada lutut kiti turunkan kepala lalu angkat lagi kepala dan badan sentuhkan tangan kiri kelutut kanan, lakukan gerakan ini masing-masing 3-4x kali latihan.<br>
+            1. Latihan hari 1 diulang kemudian ditambah dengan latihan pernafasan perut yaitu kedua telapak tangan berada diperut lalu tarik nafas dalam lewat hidung, kembungkan perut, lalu tiup nafas dan kompeskan perut lakukan gerakan ini 3x.<br><br>
+            2. Latihan otot dasar panggul posisi kedua lengan lurus disamping tubuh, kedua kali ditekuk, lalu buatlah gerakan kempeskan perut masukan pantat tahan sampai 3 hitungan lalu lepaskan, ulangi gerakan tadi 3-4x <br><br>
+            3. Latihan otot panggul posisi tidur terlentang kedua lengan disamping tubuh kedua kaki ditekuk laku buatlah gerakan kompeskan perut, masukan pantat, angkat badan sedikit dan tahan sebentar lalu turunkan lakukan gerakan ini 3-4x setiap kali latihan <br><br>
+            4. Latihan otot perut dengan angkat kepala posis tidur terlentang kedua kaki ditekuk, lalu angkat kepala dan badan sentuhkan tangan kanan pada lutut kiti turunkan kepala lalu angkat lagi kepala dan badan sentuhkan tangan kiri kelutut kanan, lakukan gerakan ini masing-masing 3-4x kali latihan.<br><br>
             5. Latihan mengecilkan rahim ibu tidur dengan posisi tengkurep dan perut diganjal bantal 2 buah dan punggung kaki diganjal dengan 1 bantal lalu kepala menoleh kekiriatau kekanan lakukan sehabis makan siang dan biarkan sampai ibu tertidur.<br>
-            6. Latihan sikap baik posisi tidur terlentang kedua lengan disamping tubuh dan kaki lurus kedua terlapak kaki tegak, lakukan gerakan tarik belikat mendekati satu sama lain, kemudian kedua kaki dorong dan kepala tengang tahan sebentar lalu lepaskan, ulangi 3-4x gerakan setiap kali latihan.<br>
+            6. Latihan sikap baik posisi tidur terlentang kedua lengan disamping tubuh dan kaki lurus kedua terlapak kaki tegak, lakukan gerakan tarik belikat mendekati satu sama lain, kemudian kedua kaki dorong dan kepala tengang tahan sebentar lalu lepaskan, ulangi 3-4x gerakan setiap kali latihan.<br><br>
             </p>    
             <p></p>
 
@@ -241,21 +237,21 @@
                 Perawatan payudara adalah suatu tindakan untuk merawat payudara terutama pada masa nifas (masa menyusui) untuk melancarkan pengeluaran Asi. Perawatan payudara pasca persalianan adalah lanjutan perawatan payudara semasa hamil. Manfaatnya yaitu Melancarakan pengeluaran Asi, merangsang produksi Asi, mencegah bendunganpayudara dan mengurangi resiko luka pada saat menyusui.
             </p>
             <p class="h5">
-                1. Cuci tangan sebelum mases. Lalu tuangkan minyak kedua belah telapak tangan secukupnya. Pengurutan dimulai dari ujung jari, caranya: <br>
-                2. Sokong payudara kiri dengan tangan kiri lakukan gerakan kecil dengan 2 atau 3 jari tangan mulai dari pangkal payudara dan berakhir dengan gerakan spiral dengan daerah putting susu. <br>
-                3. Selanjutnya dilakukan buatlah gerakan memutar sambil menekan dari pangkal payudara dan berakhir pada putting susu diseluruh dibagian payudara. Lakukan gerakan seperti ini pada payudara sebelah kanan <br>
-                4. Gerakan selanjutnya letakan kedua telapak tangan diantara kedua payudara. Urutlah dari tengah ke atas sambil mengangkat kedua payudara dan lepaskan keduanya perlahan. Lakukan gerakan ini ±30 kali. <br>
-                5. Cobalah posisi tangan paralel. Sanggah payudara dengan satu tangan sedangkan tangan lain mengurut payudara dari sisi kelingking dari arah pangkal payudara kea rah putting usus. Lakukan gerakan ini selama 30 kali. <br>
+                1. Cuci tangan sebelum mases. Lalu tuangkan minyak kedua belah telapak tangan secukupnya. Pengurutan dimulai dari ujung jari, caranya: <br><br>
+                2. Sokong payudara kiri dengan tangan kiri lakukan gerakan kecil dengan 2 atau 3 jari tangan mulai dari pangkal payudara dan berakhir dengan gerakan spiral dengan daerah putting susu. <br><br>
+                3. Selanjutnya dilakukan buatlah gerakan memutar sambil menekan dari pangkal payudara dan berakhir pada putting susu diseluruh dibagian payudara. Lakukan gerakan seperti ini pada payudara sebelah kanan <br><br>
+                4. Gerakan selanjutnya letakan kedua telapak tangan diantara kedua payudara. Urutlah dari tengah ke atas sambil mengangkat kedua payudara dan lepaskan keduanya perlahan. Lakukan gerakan ini ±30 kali. <br><br>
+                5. Cobalah posisi tangan paralel. Sanggah payudara dengan satu tangan sedangkan tangan lain mengurut payudara dari sisi kelingking dari arah pangkal payudara kea rah putting usus. Lakukan gerakan ini selama 30 kali. <br><br>
 
             </p>
             <p class="lead">
                 Apabila payudara bengkak atau lancet maka lakukan perawatan payudara dapat dilakuakn dengan cara :
             </p>
             <p class="h5">
-                1. Menjaga payudara tetap bersih dan kering, terutama puting susu <br>
-                2. Menggunakan BH yang menyokong payudara <br>
-                3. Mengistirahatkan payudara apabila lecet sangat berat selama 24 jam <br>
-                4. Meminum paracetamol setiap 4-5 jam untuk menghilangkan nyeri <br>
+                1. Menjaga payudara tetap bersih dan kering, terutama puting susu <br><br>
+                2. Menggunakan BH yang menyokong payudara <br><br>
+                3. Mengistirahatkan payudara apabila lecet sangat berat selama 24 jam <br><br>
+                4. Meminum paracetamol setiap 4-5 jam untuk menghilangkan nyeri <br><br>
                 5. Apabila payudara bengkak akibat bendungan Asi, lakukan pengempresan payudara dengan menggunakan kain basah dan hangat selama 5 menit, mengurut payudara dari pangkal menuju putting mrnggunakan sisir untuk mengurut payudara dengan arah Z menuju putting, keluarkan susu sebagian dari bagian depan payudara sehingga putting susu menjadi lunak bayi di susuisetiap 2-3 jam dan apabila tidak dapat menghisap seluruh Asi sisanya dikeluarkan dengan tangan baru meletakkan kain dingin pada payudara setelah menyusi, payudara dikeringkan (mardiatun, 2013).<br>
             </p>
             <p></p>
