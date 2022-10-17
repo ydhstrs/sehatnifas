@@ -27,7 +27,7 @@ Route::get('/adm', function () {
     return view('admin', [
         "title" => "Dashboard Admin"
     ]);
-});
+}); 
 
 Route::get('/home/{slug}', [App\Http\Controllers\HomeController::class, 'index']);
 
